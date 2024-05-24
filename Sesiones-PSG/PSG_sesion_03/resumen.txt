@@ -1,0 +1,26 @@
+por que aprender python?
+que es python?
+lenguaje interpretado, orientado a objetos.
+de facil sintaxis.
+el interprete de python.
+usa sintaxis elegnates.
+se puede verificar la sintaxis de codigo en: https://www.pythonchecker.com/
+*CAMPOS DE APLICACION:
+-Aplicacion web
+-Automatization
+-desarollo de software
+-ciencia de datos 
+-machine learning
+
+*los archivos que continen la extension .py, tienen  codigo  fuente de python.
+*usar los nombres en minusculas "script.py"
+*utilizar los guiones bajos en lugar de espacios "mi_script.py".
+*no utlizar caracteres especiales "year.py" y no año.py
+* no puede haber duplicidad de scripts
+**PEP 8** leer.
+-utilizar 4 espacios por nivel de identacion.
+-limitar las lineas de codigo a 79 caracteres para codigo.
+-limitar a 72 caracteres para comentarios.
+
+python tiene una terminal interactiva
+
