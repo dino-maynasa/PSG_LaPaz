@@ -11,3 +11,4 @@ Hola, **Soy Dino**, estoy en la sesion 2 de **PSG-la Paz**
 1. .gitignore
 2. README.md
 3. claves.txt
+4. 

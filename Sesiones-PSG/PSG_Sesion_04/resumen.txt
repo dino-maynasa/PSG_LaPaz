@@ -1,0 +1,39 @@
+-sintaxis basica.
+-aspectos claves de la sintaxis basicas.
+ -sintaxis, python ultiliza las identaciones para definir los bloques de codigo los demas lenguajes manejan llaves
+  identacion=espacios blancos (sangrias)
+  se tiene 4 espacios par  la identacion, las identaciones hijas son de 8
+  *cuando despues del codigo hay : indica que es otro bloque de codigo
+  *los comentarios ayudan a entender los codigos.
+   existe comentarios de una linea y de varias lineas.
+    #comentario de una sola linea 
+    # comentarios de varias lineas
+    # comentarios de varia linea
+    # comentario de varias lienas
+- actuizar siempre los comentarios-
+-los comentarios deben de ir en letra capital.
+-los comentarios deden de ser siempre de oraciones completas
+-comentarios deben de ser escritos en ingles.
+
+*VARIABLES Y TIPOS DE DATOS*
+-enteros
+-numeros de punto flotante
+-cadenas de texto
+-booleanos
+-listas
+-tuplas
+-conjuntos
+-diccionarios
+***JUPYTER NOTEBOOKS***
+-entorno computaciona interactivo antiguamente comocido comoo IPython, el cual se puede combinar con la ejecución, com de codigo, texto enriquesido, matematicas, gráficasy contenido de multimedia enriquecido.
+*PROVEE UNA RICA ARQUITECTURA PARA LA COMPUTACION INYTERCATIVA COMO:_
+-Una aplicacion webn para  intereactuar desde el navegador.
+-Una terminal interactiva.
+-un Kernel para jupitert (kernel=nucleo desde se ejecuta)
+-soporte para visualizaciones interactiva.
+
+_instalar a PIP, instalar kernel mediante pip ="Package Installern for Python" el instalador de paquetes de python.
+nos permite, desintalar, listar paquetes instalados.
+-se descargar con pip install ipykernel.
+*que es un notebook= utilizan los archivos con la extension .IPYNB=(interactive python notebook )
+contiene entradas y salidas de las sesiones interactivas, el texto y contenido enriquecido.
