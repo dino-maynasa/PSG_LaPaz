@@ -1,0 +1,25 @@
+Temario
+-tipos de datos en python
+    -TIPOS NUMERICOS
+        -integeres (int)
+            numeros que no cuentan con parte decimal, con precision limitada, representan valores grandes, numeros enteros Z.
+            a nivel mundial se maneja el sistema decimal es (0,1,2,3,4,5,6,7,8,9) los cuales constituyen el sistema de numeros
+            binaria, octal.
+
+        -floating(float) 
+            numeros reales, caracterizado por tener una parte entera y una parte flotante, R{...-1,0,1...} no tiene limite, son infinitos
+            En python no existe el double, solo el float. tiene  un precision maxinma de 17 decimales.
+       
+        -números complejos(complex)
+        *se puede declarar la misma cantidad de tamaño de numeros hasta la memoria misma.
+    -OPERADORES ARITMETICOS
+        suma, resta, multiplicacion, division, potencia(**), division entera(//), modulo o residuo(%)
+     *SE UTILIZA EL ACRONIMO PEMDSR (parentesis, exponenciacion, multiplicacion, division, suma, resta)*
+     -OPERADORES DE COMPARACION
+        <: estrioctamente menor que
+        >:estrictamente mayor que
+        ==: estrictamente  igual
+        <=: menor o igual
+        >=: mayoro igual
+        !=: estricamente  diferente
+    
