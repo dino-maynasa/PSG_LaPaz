@@ -1,0 +1,27 @@
+TIPOS DE DATOS BOLEANOS
+tipos de datos que tiene valores como true or false
+true=1
+false=0
+AGREGADO DE TIPO DE COMPARADORES
+-is= igualdad a nivel de identidad si son el mismo objeto
+-is not = desiguala a nivel de identidad si no son el mismo objeto
+
+-conceptos de magnitud de objeto
+
+OPERADORES 
+-ARITMETICOS
+-COMPARACION
+LOGICOS
+    Expresiones logicas
+        *not: expresion unitaria solo necesita un operador y su objetivo es invertir la expresion.
+              si el operador es true el resultado es false, si el operador es false el operador es true.
+        *and Y: necesita dos operadores, si los dos operadores son verdaderos el resultado es verdadero.
+            si alguno es falso, el resultado es falso
+        *or O: expresion que necesita dos operadores, si al menos uno de los operadores es verdadero 
+                el resultado es verdadero, si los dos son falso es falso
+        orden de prioridad
+        1. se ejecuta el operador de negacion not
+        2. se evaluan las operaraciones de conjuncion and
+        3. finalmente las operaciones de disyucion or
+        4. se puede utilizar parentesis para evaluar uina opèracion antes que otra como en los operadoires aritmeticos.
+        
